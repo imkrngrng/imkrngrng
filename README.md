@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 I'm Kiran Gurung
+### Fullstack Software Developer
 
-<!--
-**imkrngrng/imkrngrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning [Asp.net core](https://learn.microsoft.com/en-us/aspnet/core)
 
-Here are some ideas to get you started:
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/kirangu49065071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bcbrookman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kiran-gurung-aba4b4145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bcbrookman" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=0e75b6&style=flat" alt="bcbrookman" /> </p>
